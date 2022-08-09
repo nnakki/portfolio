@@ -34,6 +34,24 @@
  4. 카페관리페이지 CRUD (예약 내역 및 휴무일 조회 및 삭제) 및 페이징
  5. 관리자페이지 CRUD, 페이징 및 필터, 스프링 메일인증 API
 
+<details>
+<summary>프로젝트를 진행하며 경험하고 체득한 부분</summary>
+<div markdown="1">
+
+- [🔗 SpringSecurity+JWT+OAuth2를 사용한 소셜로그인](https://velog.io/@nnakki/SpringSecurityJWTOAuth2를-사용한-소셜로그인)
+- [🔗 AOP를 사용한 코드 리팩토링 - 스프링 시큐리티 로그인 성능개선](https://velog.io/@nnakki/AOP를-사용한-코드-리팩토링-HandlerMethodArgumentResolver)
+- [🔗 JavaBean 패턴을 적용한 코드 리팩토링](https://velog.io/@nnakki/프로젝트-코드-리팩토링-적용-사례-effective-java)
+- [🔗 Dto의 반환위치? Controller vs Service](https://velog.io/@nnakki/Dto의-반환위치-Controller-vs-Service)
+- [🔗 페이징 시, 다대일 관계에서 지연로딩 이후 초기화가 안되는 이유](https://velog.io/@nnakki/페이징시-다대일-관계에서-지연로딩-이후-초기화가-안되는-이유)
+- [🔗 SpringBoot에서 테스트 코드를 작성하기](https://velog.io/@nnakki/SpringBoot에서-테스트코드를-작성하자)
+- [🔗 프로젝트 기획 및 관리, 협업 방법](https://velog.io/@nnakki/프로젝트-관리-과정)
+- [🔗 글로벌 예외처리 적용하기](https://velog.io/@nnakki/글로벌-예외처리-적용하기)
+
+
+</div>
+</details>
+
+
 
 ---
 
