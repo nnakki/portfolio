@@ -17,10 +17,10 @@
 </br>
 
 ## 🔍Project.
-## 1. [EventCafeCloud](www.eventcafecloud.com)
+## 1. [EventCafeCloud](https://github.com/nnakki/eventcafecloud#readme)
 > ##### 2022.07.04 ~ 2022.07.29
 > ##### 제작인원 : 4명
-[🔗](https://github.com/teawan-Noh/eventcafecloud) ← 프로젝트 깃허브
+> ##### www.eventcafecloud.com
 
 ```
 새로운 문화현상으로 급부상한 `이벤트카페`를 대여하기 위한 목적으로 
