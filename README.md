@@ -15,9 +15,7 @@
 
 
 ## 🔍Project.
-### 1. [EventCafeCloud](www.eventcafecloud.com)
-
-
+## 1. [EventCafeCloud](www.eventcafecloud.com)
 > ##### 2022.07.04 ~ 2022.07.29
 [🔗](https://github.com/teawan-Noh/eventcafecloud) ← 프로젝트 깃허브
 
@@ -61,7 +59,7 @@
 
 ---
 
-### 2. [EventCafeCloud-python](www.eventcafecloud.com)
+## 2. [EventCafeCloud-python](www.eventcafecloud.com)
 > ##### 2022.05.06 ~ 2022.05.12
 [🔗](https://github.com/nnakki/EventCafeCloud-Python) ← 프로젝트 깃허브
 
@@ -76,11 +74,14 @@
 **역할** 
 1. 회원가입, JWT Token을 사용한 로그인/로그아웃
 2. 프로필페이지(프로필수정) / 카페관리페이지(휴무,가격설정)
-3. 카페 상세 페이지 (카페 리뷰, 카페 이벤트 예약 전반)
+3. 카페 상세 페이지 (카페 리뷰, 카페 이벤트 예약 전반)  
+  
+  
+
 
 ---
 
-### 3. [LOLinkedIn]()
+## 3. [LOLinkedIn]()
 > ##### 2022.04.19 ~ 2022.04.22
 [🔗](https://github.com/nnakki/lolinkedin) ← 프로젝트 깃허브
 
@@ -100,7 +101,7 @@
 ---
 
 
-### 4. [Eggeul]()
+## 4. [Eggeul]()
 > ##### 2022.03.10 ~ 2022.04.06
 [🔗](https://github.com/nnakki/Eggeul) ← 프로젝트 깃허브
 
@@ -119,7 +120,7 @@
 ---
 
 
-### 5. [ONovel]()
+## 5. [ONovel]()
 > ##### 2022.01.10 ~ 2022.01.16
 [🔗](https://github.com/nnakki/Eggeul) ← 프로젝트 깃허브
 
