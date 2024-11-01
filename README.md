@@ -1,14 +1,4 @@
 # portfolio
-
-
-## <span style="color:red">🔍Intro.</span> 
-``` 
-안녕하세요. 
-```
-
-</br>
-</br>
-
 ## 🔍Contact.
 - Email : yvely225@gmail.com
 - Blog : https://velog.io/@nnakki
